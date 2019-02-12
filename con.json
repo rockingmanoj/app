@@ -1,9 +1,5 @@
 [
 {
-"quote" : "SKCT DEVELOPERS ARE ALWAYS BEST", 
-"name" : "CSE"
-},
-{
 "quote" : "For cocon Customers are always on", 
 "name" : "COCON"
 },
@@ -26,6 +22,10 @@
 {
 "quote" : "Construction Materials are for which we Care", 
 "name" : "Construction MAterials"
+},
+{
+"quote" : "SKCT DEVELOPERS ARE ALWAYS BEST", 
+"name" : "CSE"
 }
 
 ]
